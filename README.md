@@ -15,6 +15,12 @@
  <h2> 1.Introduction </h2> 
  <h2> 2.Plant Construction</h2>
  <h2> 3.Mathematical Model </h2>
+ <h2> 4.Characterization</h2>
+ <h2> 5.PID Controller</h2>
+ <h2> 6.Hinf Controller</h2>
+ <h2> 7.SMC Controller</h2>
+ <h2> 8.-MRAC Controller</h2>
+
  
 </div>
 
