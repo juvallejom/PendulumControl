@@ -19,7 +19,7 @@
  <h2> 5.PID Controller</h2>
  <h2> 6.Hinf Controller</h2>
  <h2> 7.SMC Controller</h2>
- <h2> 8.-MRAC Controller</h2>
+ <h2> 8.MRAC Controller</h2>
 
  
 </div>
