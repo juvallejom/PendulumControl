@@ -6,10 +6,11 @@ Motor Characterization
 Operation Point 
 
 
-### Experimtento colocando las tuercaas en el tornillo de la planta
+### Experimtento colocando las tuercaas en el tornillo derecho de la planta 
 
 PWM = 24 % ; Angle = 62 degress
 
 for Operation Point Ang=62
-
-1 Tuerca ------   20.7
+N°tuercas   pwm
+1  ------   20.7
+2 --------- 18
