@@ -25,16 +25,24 @@ N°tuercas   pwm
 ### Segundo experimento con tuercas en bolsas 
 
 N° Tuerca --------- pwm
+
 1----------------- 19 
+
 2 ---------------- 16 
+
 3 ----------------- 13.5
+
 4 ----------------- 9.01
+
 5 ----------------  7,46
+
 6 ----------------- 1  No hay movimiento del motor
 
 Para 6 tuercas con valores de pwm pasa lo siguiente
 
-2-------------- hay movimiento del motor 
+2-------------- hay movimiento del motor marca posicion de 63.14
+
+3-------------------- hay movimiento del motor marca posicion de 63.90
 
 
 
