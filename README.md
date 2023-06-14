@@ -15,6 +15,7 @@
  <h2> 1.Introduction </h2> 
  
 - [ ] Modelo Matemaatico Bien Definido
+  - [ ] Modelo Matemaatico Bien Definido
 - [ ] Amortiguameinto 
 - [ ] Caracterizacion del motor 
 - [ ] Modelo en Simulink Bien Definido 
