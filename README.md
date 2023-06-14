@@ -15,7 +15,10 @@
  <h2> 1.Introduction </h2> 
  
 - [ ] Modelo Matemaatico Bien Definido
-  - [ ] Modelo Matemaatico Bien Definido
+  - [ ] Cacular peso motor 
+  - [ ] Cacular peso contrapeso.
+  - [ ] Cacular peso brazo --- esto lo hacemos con el modelo en inventor 
+  - [ ] Cacular bien las longitudes 
 - [ ] Amortiguameinto 
 - [ ] Caracterizacion del motor 
 - [ ] Modelo en Simulink Bien Definido 
