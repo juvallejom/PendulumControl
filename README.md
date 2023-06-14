@@ -14,9 +14,22 @@
 <div align="left">
  <h2> 1.Introduction </h2> 
  
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Modelo Matemaatico Bien Definido
+- [ ] Amortiguameinto 
+- [ ] Caracterizacion del motor 
+- [ ] Modelo en Simulink Bien Definido 
+- [ ] Caracterizacion del motor 
+- [ ] Planos Electricos 
+- [ ] Planos Mecanicos 
+- [ ] Linealizacion 
+- [ ] Modelo en variables de estados 
+- [ ] Controlador PID
+- [ ] Controlador Hinf
+- [ ] Controlador MRAC
+- [ ] Controlador SMC
+- [ ] Observador 
+ 
+ 
  <h2> 2.Plant Construction</h2>
  <h2> 3.Mathematical Model </h2>
  <h2> 4.Characterization</h2>
