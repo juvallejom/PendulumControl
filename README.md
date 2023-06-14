@@ -18,7 +18,8 @@
   - [ ] Cacular peso motor 
   - [ ] Cacular peso contrapeso.
   - [ ] Cacular peso brazo --- esto lo hacemos con el modelo en inventor 
-  - [ ] Cacular bien las longitudes 
+  - [ ] Cacular bien las longitudes
+  - [ ] Momento de inercia 
 - [ ] Amortiguameinto 
 - [ ] Caracterizacion del motor 
 - [ ] Modelo en Simulink Bien Definido 
