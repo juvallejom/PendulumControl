@@ -13,6 +13,10 @@
 
 <div align="left">
  <h2> 1.Introduction </h2> 
+ 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
  <h2> 2.Plant Construction</h2>
  <h2> 3.Mathematical Model </h2>
  <h2> 4.Characterization</h2>
