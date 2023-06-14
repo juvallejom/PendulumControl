@@ -21,6 +21,9 @@
   - [ ] Cacular bien las longitudes
   - [ ] Momento de inercia 
 - [ ] Amortiguameinto 
+ - [ ] Pasar graficas de amorguamiento a Matlab 
+ - [ ] Determinar el valor del amortiguamiento
+ - [ ] vincular el amortiguamiento al modelo en simulink 
 - [ ] Caracterizacion del motor 
 - [ ] Modelo en Simulink Bien Definido 
 - [ ] Planos Electricos 
