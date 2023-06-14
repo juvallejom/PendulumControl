@@ -18,7 +18,6 @@
 - [ ] Amortiguameinto 
 - [ ] Caracterizacion del motor 
 - [ ] Modelo en Simulink Bien Definido 
-- [ ] Caracterizacion del motor 
 - [ ] Planos Electricos 
 - [ ] Planos Mecanicos 
 - [ ] Linealizacion 
