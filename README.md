@@ -21,7 +21,7 @@
   - [ ] Cacular bien las longitudes
   - [ ] Momento de inercia 
 - [ ] Amortiguameinto 
-  - [ ] Pasar graficas de amorguamiento a Matlab 
+  - [x] Pasar graficas de amorguamiento a Matlab 
   - [ ] Determinar el valor del amortiguamiento
   - [ ] vincular el amortiguamiento al modelo en simulink 
 - [ ] Caracterizacion del motor 
@@ -44,6 +44,8 @@
  <h2> 6.Hinf Controller</h2>
  <h2> 7.SMC Controller</h2>
  <h2> 8.MRAC Controller</h2>
+ <h2> 9.Code</h2>
+ <h2> 10.Matlab & Simulink Model</h2>
 
  
 </div>
